@@ -6,11 +6,11 @@
 
 VisionTime is available on the following Apple platforms:
 
-- **iOS** — iPhone
-- **iPadOS** — iPad
-- **visionOS** — Apple Vision Pro
-- **macOS** — Mac
-- **tvOS** — Apple TV
+- **iOS 26+** — iPhone
+- **iPadOS 26+** — iPad
+- **visionOS 26+** — Apple Vision Pro
+- **macOS 26+** — Mac
+- **tvOS 26+** — Apple TV
 
 ## Frequently Asked Questions
 
@@ -66,7 +66,7 @@ If you need further assistance or have feedback, we would love to hear from you.
 **Email:** [davinci.dalhi@gmail.com](mailto:davinci.dalhi@gmail.com)
 
 When contacting support, please include:
-- The device and platform you are using (e.g., iPhone 16 / iOS 18, Apple Vision Pro / visionOS 2, Mac / macOS 15, Apple TV / tvOS 18)
+- The device and platform you are using (e.g., iPhone / iOS 26, iPad / iPadOS 26, Apple Vision Pro / visionOS 26, Mac / macOS 26, Apple TV / tvOS 26)
 - A description of the issue
 - Screenshots, if applicable
 
