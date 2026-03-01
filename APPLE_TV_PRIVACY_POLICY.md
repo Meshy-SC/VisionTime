@@ -8,23 +8,24 @@ VisionTime ("the App") is a personal entertainment tracking application availabl
 
 ## Data Collection
 
-### What We Collect
-- **Your tracked content**: Shows, movies, watch progress, ratings, and notes you add
-- **App preferences**: Settings like notification preferences and display options
+VisionTime does **not** collect, store, or transmit any user data to our servers. We have no servers, no databases, and no access to your information.
 
-### What We DON'T Collect
+All data — including your tracked content (movies, shows, watch progress, ratings, and notes) and app preferences — is stored **entirely on your device** and, if iCloud is enabled, in **your own private iCloud account**.
+
+### We Do NOT Collect
 - Personal identification information
 - Location data
 - Usage analytics or tracking
 - Advertising identifiers
+- Any data whatsoever
 
 ## Data Storage
 
-All your data is stored:
+All your data remains under your control:
 1. **Locally** on your Apple TV
 2. **In your private iCloud account** (if iCloud is enabled)
 
-We do not have access to your iCloud data. Apple's iCloud infrastructure ensures your data remains private and encrypted.
+We have **zero access** to your data. Apple's iCloud infrastructure ensures your data remains private and encrypted.
 
 ## Third-Party Services
 
