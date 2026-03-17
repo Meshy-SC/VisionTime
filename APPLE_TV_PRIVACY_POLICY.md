@@ -66,3 +66,6 @@ For privacy questions, contact us at: [davinci.dalhi@gmail.com](mailto:davinci.d
 ---
 
 *This app uses the TMDb API but is not endorsed or certified by TMDb.*
+
+
+I saw an app that they make the premium in stats. I can do the same here, and I like also their price. Price was 2.99 per month and 24.99 per year, save 30%. I need to implement the same thing and add also a free trial. 
