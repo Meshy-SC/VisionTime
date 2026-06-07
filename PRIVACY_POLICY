@@ -62,7 +62,7 @@ We may update this policy. Continued use of the app after changes constitutes ac
 
 ## Contact
 
-For privacy questions, contact us at: [support@dubikes.com]
+For privacy questions, contact us at: [davinci.dalhi@gmail.com]
 
 ---
 
