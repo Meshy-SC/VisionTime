@@ -1,0 +1,124 @@
+# Privacy Policy for VisionTime
+
+**Last Updated:** August 30, 2026
+
+## Overview
+
+VisionTime ("the App") is a personal entertainment tracking application. Meshy-SC ("we", "our", "us") is committed to protecting your privacy and being transparent about how the App handles your data.
+
+VisionTime is available on Apple platforms (iOS, iPadOS, macOS, visionOS, tvOS) and on Meta Horizon OS (Meta Quest 2, Quest Pro, Quest 3, and Quest 3S). This policy covers every platform.
+
+## Data Collection
+
+VisionTime does **not** collect, store, or transmit any user data to our servers. We operate no servers, no databases, and no back end of any kind, and we have no access to your information.
+
+All data — including the content you track (movies, shows, watch progress, ratings, notes, favorites, followed people and studios, achievements, and app preferences) — is stored **entirely on your device**. On Apple devices, if iCloud is enabled, that data also syncs to **your own private iCloud database**. On Meta Quest, the data lives only on the headset.
+
+### We Do NOT Collect
+
+- Personal identification information
+- Location data
+- Usage analytics or telemetry
+- Advertising identifiers
+- Crash reports
+- Any data whatsoever
+
+## Data Storage
+
+Your data remains under your control.
+
+**Apple platforms**
+
+1. **Locally** on the device.
+2. **In your private iCloud database** if iCloud is enabled. Apple's iCloud infrastructure keeps that data private and encrypted.
+
+**Meta Horizon OS (Meta Quest)**
+
+1. **Locally** on the headset, in a private database inside the app's sandboxed storage.
+2. There is **no cloud sync** on Meta Quest. Android automatic backup and device-to-device transfer are disabled in the app manifest — nothing leaves the headset unless you export it yourself.
+3. You can produce a portable backup file at any time from **Settings → Backup → Export Library**, and restore that same file on either the Apple or Meta Quest version of VisionTime.
+
+We have **zero access** to your data on either platform.
+
+## Third-Party Services
+
+VisionTime relies on a small number of third-party services to fetch catalog data and to run on the host operating system. Each is used strictly to deliver the features described.
+
+### The Movie Database (TMDb)
+
+VisionTime uses TMDb's public API to display information about movies and TV shows. When you search for a title, open a detail page, or refresh episode data:
+
+- Your search query or the requested TMDb identifier is sent to TMDb's servers over HTTPS.
+- Poster, backdrop, still, and profile images are fetched from TMDb's image servers.
+
+TMDb's privacy policy applies to those requests:
+[themoviedb.org/privacy-policy](https://www.themoviedb.org/privacy-policy)
+
+### YouTube (trailers)
+
+Where TMDb lists a trailer, VisionTime displays a thumbnail served by `img.youtube.com`. Tapping a trailer opens the video in your device's system browser, at which point YouTube's own privacy policy applies:
+[policies.google.com/privacy](https://policies.google.com/privacy)
+
+### Apple iCloud (Apple platforms only)
+
+If enabled on your Apple devices, your library syncs through Apple's iCloud. Apple's privacy policy applies:
+[apple.com/privacy](https://www.apple.com/privacy/)
+
+### Meta Horizon Platform (Meta Quest only)
+
+On Meta Quest, VisionTime uses the Meta Horizon Platform SDK to:
+
+- Verify that your copy of the App is entitled through the Meta Horizon Store (a store-required check).
+- Post release and achievement notifications through the headset's own notification tray.
+
+Those calls are handled by Meta's software running on your headset. Meta's own privacy policy applies to that layer:
+[meta.com/legal/privacy-policy](https://www.meta.com/legal/privacy-policy/)
+
+## Data Sharing
+
+We do **not**:
+
+- Sell your data.
+- Share your data with third parties beyond the specific TMDb, YouTube, iCloud, and Meta Horizon requests described above.
+- Use your data for advertising.
+- Track your behaviour across apps or sessions.
+
+## Your Rights
+
+You can:
+
+- **Delete your data** by removing the App.
+  - On Apple platforms, disable iCloud sync first if you also want to erase the synced copy. See the Support document for the exact steps.
+  - On Meta Quest, uninstalling the App deletes every local copy immediately — there is no cloud copy to remove.
+- **Export your data** at any time from **Settings → Backup → Export Library** as a portable JSON file, and re-import it later on either platform.
+- **Disable iCloud sync** on Apple platforms by turning off iCloud for VisionTime in system Settings.
+- **Revoke notification permission** at any time from your device's system Settings.
+
+## Permissions Requested
+
+- **Internet access** — required to fetch content information and images from TMDb, and (on Meta Quest) to perform the Horizon Store entitlement check.
+- **Notifications** — optional; used only for release alerts and achievement unlocks. If you decline, the App continues to work silently.
+
+VisionTime does not request access to the camera, microphone, location, contacts, files outside its own sandbox, or any advertising identifier.
+
+## Children's Privacy
+
+VisionTime does not knowingly collect data from children under 13.
+
+## Changes to This Policy
+
+We may update this policy from time to time. The "Last Updated" date at the top of this document reflects the most recent revision. Continued use of the App after changes are published constitutes acceptance.
+
+## Contact
+
+For privacy questions, please contact us:
+
+- **Email:** [davinci.dalhi@gmail.com](mailto:davinci.dalhi@gmail.com)
+- **GitHub Issues:** [github.com/Meshy-SC/VisionTime/issues](https://github.com/Meshy-SC/VisionTime/issues)
+
+We aim to respond within 48 hours.
+
+---
+
+*VisionTime uses the TMDb API but is not endorsed or certified by TMDb.*
+*VisionTime is not affiliated with Meta Platforms, Inc. or Apple Inc.*
