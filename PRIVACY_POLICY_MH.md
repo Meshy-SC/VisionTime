@@ -4,7 +4,7 @@
 
 ## Overview
 
-VisionTime ("the App") is a personal entertainment tracking application. Meshy-SC ("we", "our", "us") is committed to protecting your privacy and being transparent about how the App handles your data.
+VisionTime ("the App") is a personal entertainment tracking application. Meshy ("we", "our", "us") is committed to protecting your privacy and being transparent about how the App handles your data.
 
 VisionTime is available on Apple platforms (iOS, iPadOS, macOS, visionOS, tvOS) and on Meta Horizon OS (Meta Quest 2, Quest Pro, Quest 3, and Quest 3S). This policy covers every platform.
 
